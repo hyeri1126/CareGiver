@@ -25,16 +25,16 @@ React Native, TypeScript, MobX State Tree, React Query, Styled Components
 
 ## 기여한 내역
 ### 1. 결제 스크린 - 서비스 요금 설정 화면(기본 요금, 추가 요금 등) <br>
-<img src="assets/images/screenshot/payment.png" width="400" alt="결제스크린">
+<img src="assets/images/screenshot/payment.png" width="500" alt="결제스크린">
 
 ### 2. 예약 취소 바텀시트 모달 <br>
-<img src="assets/images/screenshot/bottomsheet.png" width="400" alt="바텀시트">
+<img src="assets/images/screenshot/bottomsheet.png" width="500" alt="바텀시트">
 
 ### 3. 날짜별 서비스 수정 스크린 <br>
-<img src="assets/images/screenshot/service.png" width="400" alt="서비스">
+<img src="assets/images/screenshot/service.png" width="500" alt="서비스">
 
 ### 4. 요금 등록 컴포넌트 리팩토링 <br>
-<img src="assets/images/screenshot/refactoring.png" width="400" alt="리팩토링">
+<img src="assets/images/screenshot/refactoring.png" width="500" alt="리팩토링">
 
 
 ## 📝 프로젝트 회고
