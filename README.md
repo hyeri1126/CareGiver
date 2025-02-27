@@ -18,12 +18,12 @@
 ## 🛠️ 기술 스택
 React Native, TypeScript, MobX State Tree, React Query, Styled Components
 
-## 성장 포인트
+## 🌟 성장 포인트
 - MVP 아키텍처를 활용한 대규모 모바일 애플리케이션에서 프론트에드 개발 경험
 - 체계적인 코드 컨벤션과 모듈화 환경에서 작업
 - 스프린트 단위로 작업하면서 상세한 코드리뷰를 받으면서 개발 역량 강화
 
-## 기여한 내역
+## 💫 기여한 내역
 ### 1. 결제 스크린 - 서비스 요금 설정 화면(기본 요금, 추가 요금 등) <br>
 <img src="assets/images/screenshot/payment.png" width="500" alt="결제스크린">
 
